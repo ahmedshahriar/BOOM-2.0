@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: a1d46cd3f2614cc43be92ab44ea7d819
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DT Bullet 1
+    21300002: DT Bullet 2
+    21300004: DT Bullet 3
+    21300006: DT Bullet 4
+    21300008: DT Bullet 5
+    21300010: DT Bullet 6
+    21300012: DT Bullet 7
+    21300014: DT Bullet 8
+    21300016: DT Bullet 9
+    21300018: DT Bullet 10
+    21300020: DT Handgrenade 1
+    21300022: DT Handgrenade 2
+    21300024: DT Tank 1
+    21300026: DT Handgrenade 3
+    21300028: DT Handgrenade 4
+    21300030: DT Handgrenade 5
+    21300032: DT Handgrenade 6
+    21300034: DT Handgrenade 7
+    21300036: DT Handgrenade 8
+    21300038: DT Handgrenade 9
+    21300040: DT Tank 2
+    21300042: DT Jet 1
+    21300044: DT Jet 2
+    21300046: DT Explosive
+    21300048: DT Explosive remote
+    21300050: DT Healthpack
+    21300052: DT Health
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Web
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DT Bullet 1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3449
+        width: 178
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3449
+        width: 186
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3449
+        width: 180
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 4
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3449
+        width: 182
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 5
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3449
+        width: 212
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2421
+        width: 164
+        height: 987
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2421
+        width: 108
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2421
+        width: 238
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 9
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2421
+        width: 234
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Bullet 10
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2419
+        width: 196
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 1
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 3396
+        width: 450
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 2
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 3372
+        width: 464
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Tank 1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1831
+        width: 1063
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 3
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3374
+        width: 462
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 4
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 2485
+        width: 425
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 5
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2482
+        width: 435
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 6
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 2478
+        width: 431
+        height: 763
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 7
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2476
+        width: 425
+        height: 766
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 8
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 1668
+        width: 624
+        height: 760
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgrenade 9
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 1665
+        width: 610
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Tank 2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1248
+        width: 1063
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Jet 1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 537
+        width: 866
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Jet 2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 55
+        width: 1333
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Explosive
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 858
+        width: 833
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Explosive remote
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 861
+        width: 330
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Healthpack
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 97
+        width: 616
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Health
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 183
+        width: 446
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

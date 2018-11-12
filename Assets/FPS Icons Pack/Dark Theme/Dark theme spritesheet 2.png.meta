@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 5acb27b603af6d44ea6113c4b7b15385
+timeCreated: 18446744011573954816
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DT Automatic rifle 6
+    21300002: DT Automatic rifle 1
+    21300004: DT Handgun 5
+    21300006: DT Automatic rifle 5
+    21300008: DT Semiautomatic rifle 1
+    21300010: DT Handgun 4
+    21300012: DT Shotgun 2
+    21300014: DT Handgun 3
+    21300016: DT Submachinegun 3
+    21300018: DT Automatic rifle 2
+    21300020: DT Sniper 3
+    21300022: DT Handgun 2
+    21300024: DT Submachinegun 1
+    21300026: DT Shotgun 1
+    21300028: DT Handgun 1
+    21300030: DT Rifle 1
+    21300032: DT Rocketlauncher 1
+    21300034: DT Sniper 2
+    21300036: DT Sniper 1
+    21300038: DT Combat knife
+    21300040: DT Automatic shotgun 1
+    21300042: DT Submachinegun 2
+    21300044: DT Automatic rifle 3
+    21300046: DT Automatic rifle 4
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Web
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DT Automatic rifle 6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3567
+        width: 1517
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Automatic rifle 1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3594
+        width: 1540
+        height: 437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgun 5
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 3633
+        width: 530
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Automatic rifle 5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2949
+        width: 1381
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Semiautomatic rifle 1
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3168
+        width: 1683
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgun 4
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 3193
+        width: 534
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Shotgun 2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2880
+        width: 1670
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgun 3
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2811
+        width: 668
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Submachinegun 3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2475
+        width: 743
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Automatic rifle 2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2491
+        width: 854
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Sniper 3
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2488
+        width: 1694
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgun 2
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2331
+        width: 660
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Submachinegun 1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1967
+        width: 1163
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Shotgun 1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2111
+        width: 1628
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Handgun 1
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1816
+        width: 626
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Rifle 1
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1792
+        width: 1724
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Rocketlauncher 1
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1391
+        width: 1854
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Sniper 2
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 907
+        width: 1702
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Sniper 1
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 440
+        width: 1720
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Combat knife
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 107
+        width: 849
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Automatic shotgun 1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1484
+        width: 1278
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Submachinegun 2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 26
+        width: 1046
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Automatic rifle 3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 990
+        width: 1595
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DT Automatic rifle 4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 507
+        width: 1579
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
