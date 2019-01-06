@@ -1,12 +1,27 @@
 fileFormatVersion: 2
 guid: 45fb3b613218da844b047d1f9349e0d6
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object004
+    100004: Object005
+    400000: //RootNode
+    400002: Object004
+    400004: Object005
+    2300000: Object004
+    2300002: Object005
+    3300000: Object004
+    3300002: Object005
     4300000: Object004
     4300002: Object005
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 644d55a5e31414a4e85d01cfef9ab1ee, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -25,6 +40,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5

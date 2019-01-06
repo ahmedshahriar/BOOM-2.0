@@ -19,7 +19,7 @@ public class LobbyPauseMenu : MonoBehaviour {
     public void BackMain()
     {
         
-        Network.Disconnect();
+        //Network.Disconnect();
       //  NetworkLobbyManager.Destroy(server);
        // Destroy(LBM);
        // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
