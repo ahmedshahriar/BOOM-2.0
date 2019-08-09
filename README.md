@@ -76,7 +76,9 @@ git clone https://github.com/ahmedshahriar/BOOM-2.0.git
 ![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/environment_4.png "Environment")
 ![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/environment_5.png "Environment")
 ![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/environment_6.png "Environment")
-![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/palyer.png "Player")
+
+![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/player.png "Player")
+
 ![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/impact_effect.png "Impact Effect")
 ![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/die_effect.png "Death Effect")
 ![alt text](https://github.com/ahmedshahriar/BOOM-2.0/blob/master/Screenshots/meeting.png "Meeting")
