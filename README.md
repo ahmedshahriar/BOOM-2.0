@@ -25,8 +25,8 @@ C# , Unity API
 * 📦[Ammo Box](https://assetstore.unity.com/packages/3d/props/weapons/ammo-box-7701) by [Beatheart Creative Studio](https://assetstore.unity.com/publishers/1920) - Ammo Box
 * :gun:[Sci-fi Weapons](http://devassets.com/assets/sci-fi-weapons/) by [DEVASSETS](http://devassets.com/) - Rifle
 * :tv: [Network Lobby](https://assetstore.unity.com/packages/essentials/network-lobby-41836) by [Unity](https://assetstore.unity.com/publishers/1) - Network Lobby for Unet
-* 🌠 [M41 gun sound](https://soundcloud.com/tchan5158/m4a1-single-kibblesbob-8540445) -Rifle shooting sound
-* 🌧 [Rain INT_Glass greenhouse](https://gamesounds.xyz/?dir=Sonniss.com%20-%20GDC%202018%20-%20Game%20Audio%20Bundle/Borg%20Sound%20%E2%80%93%20Rain%20Indoor%20Ambiences) - Background music
+* 🌠 [M41 gun sound](https://soundcloud.com/tchan5158/m4a1-single-kibblesbob-8540445) by [gamesounds.xyz](https://gamesounds.xyz/) -Rifle shooting sound
+* 🌧 [Rain INT_Glass greenhouse](https://gamesounds.xyz/?dir=Sonniss.com%20-%20GDC%202018%20-%20Game%20Audio%20Bundle/Borg%20Sound%20%E2%80%93%20Rain%20Indoor%20Ambiences) by [gamesounds.xyz](https://gamesounds.xyz/) - Background music
 * ☠ [Large Explosion](https://gamesounds.xyz/?dir=Sonniss.com%20-%20GDC%202018%20-%20Game%20Audio%20Bundle/Gamemaster%20Audio%20-%20Guns%2C%20Bullets%20and%20Explosions) - Death background
 
 
