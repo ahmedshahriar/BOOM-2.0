@@ -23,6 +23,8 @@ C# , Unity API
 
 * ⚡[ WAR FX ](https://assetstore.unity.com/packages/vfx/particles/war-fx-5669) by [JMO](https://jeanmoreno.com/) - Muzzle Flash
 * 📦[Ammo Box](https://assetstore.unity.com/packages/3d/props/weapons/ammo-box-7701) by [Beatheart Creative Studio](https://assetstore.unity.com/publishers/1920) - Ammo Box
+* :gun:[Rifle](http://devassets.com/assets/sci-fi-weapons/) by [DEVASSETS](http://devassets.com/) - Rifle
+
 
 ## Download 
 
