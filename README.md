@@ -3,7 +3,7 @@
 A simple multiplayer FPS game powered by UNet service
 
 
-:computer: [**Prerequisites**](#prerequisites) |:arrow_double_down: [**Download**](#download) |:camera: [**Screenshots**](#screenshots) |:video_game: [**Clip**](#gameplay-clip) | :arrow_down: [**Version**](#update)
+:computer: [**Prerequisites**](#prerequisites) |:arrow_double_down: [**Download**](#download) |:camera: [**Screenshots**](#screenshots) |:video_game: [**Clip**](#gameplay-clip) | :arrow_down: [**Version**](#version)
 --- | --- | --- | --- | ---
 
 
