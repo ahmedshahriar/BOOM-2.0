@@ -1,6 +1,6 @@
 # BOOM 2.0
 
-A simple multiplayer FPS game powered by UNet service
+A simple multiplayer FPS game powered by UNet service Made with Unity3d Game Engine
 
 
 :computer: [**Prerequisites**](#prerequisites) |:arrow_double_down: [**Download**](#download) |:camera: [**Screenshots**](#screenshots) |:video_game: [**Clip**](#gameplay-clip) | :arrow_down: [**Version**](#version)
